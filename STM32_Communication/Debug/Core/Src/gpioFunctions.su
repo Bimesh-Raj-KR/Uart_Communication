@@ -1,0 +1,17 @@
+../Core/Src/gpioFunctions.c:31:6:halInitialize	8	static
+../Core/Src/gpioFunctions.c:43:6:clockConfiguration	72	static
+../Core/Src/gpioFunctions.c:86:6:uartInit	16	static
+../Core/Src/gpioFunctions.c:110:6:gpioInit	40	static
+../Core/Src/gpioFunctions.c:155:6:watchDogInit	16	static
+../Core/Src/gpioFunctions.c:173:6:interruptEnable	8	static
+../Core/Src/gpioFunctions.c:186:6:schedulerInit	8	static
+../Core/Src/gpioFunctions.c:198:6:schedulerStart	8	static
+../Core/Src/gpioFunctions.c:210:13:errorHandler	4	static,ignoring_inline_asm
+../Core/Src/gpioFunctions.c:228:6:gpioRead	24	static
+../Core/Src/gpioFunctions.c:249:6:gpioWrite	16	static
+../Core/Src/gpioFunctions.c:265:6:gpioToggle	16	static
+../Core/Src/gpioFunctions.c:280:6:gpioTransmit	24	static
+../Core/Src/gpioFunctions.c:301:6:gpioReceive	24	static
+../Core/Src/gpioFunctions.c:321:6:refreshWatchDog	24	static
+../Core/Src/gpioFunctions.c:341:6:checkReset	16	static
+../Core/Src/gpioFunctions.c:360:6:clearReset	4	static

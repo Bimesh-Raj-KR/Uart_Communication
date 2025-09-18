@@ -1,0 +1,4 @@
+../Core/Src/threads.c:35:6:communicationInit	1
+../Core/Src/threads.c:48:6:handleCreate	1
+../Core/Src/threads.c:79:6:taskSync	9
+../Core/Src/threads.c:153:6:Callback	2
