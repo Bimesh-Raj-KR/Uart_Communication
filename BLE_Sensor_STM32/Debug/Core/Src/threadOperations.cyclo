@@ -1,0 +1,6 @@
+../Core/Src/threadOperations.c:33:6:threadCreate	3
+../Core/Src/threadOperations.c:61:6:timerCreate	3
+../Core/Src/threadOperations.c:89:6:semaphoreCreate	3
+../Core/Src/threadOperations.c:114:6:timerStart	2
+../Core/Src/threadOperations.c:138:6:semaphoreWait	2
+../Core/Src/threadOperations.c:162:6:semaphorePost	2

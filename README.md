@@ -1,6 +1,6 @@
 # Uart_Communication
 
-An Inter-Board Communication project that allows uart communication between **STM32** and **ESP32**
+A BLE_Sensor project that allows transmission of **DHT11** sesnor readings via **UART** communication between **STM32** and **ESP32**
 
 ## Features
 
@@ -20,6 +20,12 @@ Use of **PlatformIO** and **STM32CubeIDE**
 2. **D8 -> RX2**
 3. **PC3 -> D13**
 4. **GND -> GND**
+
+### STM32 -> DHT11
+
+1. **5V -> V+**
+2. **GND -> V-**
+3. **PC11 -> out**
 
 ### Further Requirements
 

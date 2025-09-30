@@ -1,0 +1,3 @@
+../Core/Src/sensorDriver.c:31:6:sensorStart	8	static
+../Core/Src/sensorDriver.c:51:6:sensorOutput	24	static
+../Core/Src/sensorDriver.c:94:6:sensorReadings	24	static

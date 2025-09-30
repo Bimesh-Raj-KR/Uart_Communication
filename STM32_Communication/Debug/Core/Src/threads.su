@@ -1,4 +1,0 @@
-../Core/Src/threads.c:35:6:communicationInit	8	static
-../Core/Src/threads.c:48:6:handleCreate	80	static
-../Core/Src/threads.c:79:6:taskSync	24	static
-../Core/Src/threads.c:153:6:Callback	16	static

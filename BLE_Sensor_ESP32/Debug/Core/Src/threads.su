@@ -1,0 +1,6 @@
+../Core/Src/threads.c:38:6:communicationInit	16	static
+../Core/Src/threads.c:85:6:handleCreate	80	static
+../Core/Src/threads.c:140:6:taskSync	32	static
+../Core/Src/threads.c:260:6:Callback	16	static
+../Core/Src/threads.c:276:6:HAL_GPIO_EXTI_Callback	24	static
+../Core/Src/threads.c:304:6:microDelay	16	static
