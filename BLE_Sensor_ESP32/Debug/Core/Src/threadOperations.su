@@ -1,0 +1,6 @@
+../Core/Src/threadOperations.c:33:6:threadCreate	32	static
+../Core/Src/threadOperations.c:61:6:timerCreate	32	static
+../Core/Src/threadOperations.c:89:6:semaphoreCreate	24	static
+../Core/Src/threadOperations.c:114:6:timerStart	24	static
+../Core/Src/threadOperations.c:138:6:semaphoreWait	24	static
+../Core/Src/threadOperations.c:162:6:semaphorePost	24	static

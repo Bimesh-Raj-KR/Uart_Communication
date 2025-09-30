@@ -1,0 +1,6 @@
+../Core/Src/threads.c:38:6:communicationInit	5
+../Core/Src/threads.c:85:6:handleCreate	5
+../Core/Src/threads.c:140:6:taskSync	16
+../Core/Src/threads.c:260:6:Callback	2
+../Core/Src/threads.c:276:6:HAL_GPIO_EXTI_Callback	3
+../Core/Src/threads.c:304:6:microDelay	2
